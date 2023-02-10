@@ -1,0 +1,142 @@
+/* Navigation bar */
+@media screen and (max-width:1360px) {
+    .secondary{
+        font-size:1.5rem;
+        line-height: 2.2rem;
+    }
+    /* #navigation{
+        justify-content: center;
+
+    } */
+    
+    .nav li{
+        padding-right: 30px;
+        padding-left:30px ;
+    }
+
+}
+@media screen and (max-width:1070px){
+    .secondary{
+        font-size: 1.2rem;
+        line-height: 1.8rem;
+        overflow: hidden;
+    }
+    .email{
+        font-size: 1.8rem;
+    }
+    .mail{
+        font-size: 1.8rem;
+    }
+    
+   
+}
+@media screen and (max-width:988px){
+    .img-part{
+        margin-bottom: 0px;
+
+    }
+
+    .content{
+        margin-bottom: 0px;
+    }
+    .mail{
+        font-size: 1.0rem;
+    }
+    .email{
+        font-size: 1.0rem;
+    }
+}
+@media screen and (max-width:880px){
+    .nav li a{
+        font-size: 1.0rem;
+
+    }
+
+    .nav li{
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    .right{
+        font-size: 1.8rem;
+    }
+    .one-sec{
+        font-size: 1.0rem;
+        overflow: hidden;
+    }
+    .container{
+        width: 80vw;
+    }
+    .secondary{
+        line-height: 1.2rem;
+        font-size: 1.0rem;
+        padding-top: 4px;
+        padding-left: 10px;
+
+    }
+    .development-skill{
+        width: 30vw;
+        overflow: hidden;
+    }
+    .programming-skill{
+        width: 15vw;
+        overflow: hidden;
+
+
+    }
+    .img-part{
+        width: 340pxl;
+    }
+   .html{
+    /* display: flex; */
+    flex-direction:column;
+
+   }
+   .html progress{
+    width: 100%;
+    margin-left: 0;
+   }
+   .html label{
+    font-size: 1.2rem;
+   }
+   .link{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    padding: 53px;
+   }
+   .pre{
+        font-size: 1.5rem;
+   }
+   .singh{
+    font-size: 1.0rem;
+   }
+   .diai{
+    font-size: 1.0rem;
+   }
+   .Rk{
+    font-size: 1.0rem;
+   } 
+   .gym{
+    font-size: 1.0rem;
+
+   }
+   .prime{
+    font-size: 1.0rem;
+
+   }
+   .phonepe{
+    font-size: 1.0rem;
+
+   }
+   .my-skills{
+    margin-left: 50px;
+   }
+   .form{
+    display: flex;
+    /* justify-content: space-between;
+    padding
+     */
+     padding-left: 23px;
+     overflow: hidden;
+   }
+}
